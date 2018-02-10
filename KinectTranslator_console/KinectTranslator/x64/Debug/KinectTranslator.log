@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\l412\desktop\kinecttranslator_v2\kinecttranslator\main.cpp(30): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\l412\desktop\kinecttranslator_v2\kinecttranslator\main.cpp(60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\l412\desktop\kinecttranslator_v2\kinecttranslator\main.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KinectTranslator.vcxproj -> C:\Users\L412\Desktop\KinectTranslator_v2\x64\Debug\KinectTranslator.exe

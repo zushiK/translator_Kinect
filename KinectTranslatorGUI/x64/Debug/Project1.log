@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ChangeVector.cpp
+  Generating Code...
+  Compiling...
+  cuu.cpp
+c:\users\l412\desktop\kinecttranslatorgui\project1\cuu.cpp(46): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+c:\users\l412\desktop\kinecttranslatorgui\project1\cuu.cpp(86): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\l412\desktop\kinecttranslatorgui\project1\cuu.cpp(208): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\l412\desktop\kinecttranslatorgui\project1\cuu.cpp(270): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\L412\Desktop\KinectTranslatorGUI\x64\Debug\KinectTranslator.exe
